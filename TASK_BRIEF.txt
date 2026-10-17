@@ -1,0 +1,7 @@
+Veda Technology — AI & ML Track
+Task 31: Features and Target Selection
+
+Task: Select suitable input features and a target variable from a simple machine-learning dataset and explain the reason behind the selection.
+Objective: Understand the basic structure of supervised machine-learning problems.
+Suggested dataset used: Iris Dataset.
+Tools: Python, Pandas, Scikit-learn, Jupyter Notebook.
